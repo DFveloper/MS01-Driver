@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Jan 2026 12:40:41 at https://f0c22.yjx2012.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://f0c22.yjx2012.com/ -O1 "C:\My Web Sites\DF-MS01 Pro driver" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:40:47	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://f0c22.yjx2012.com/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 20 links scanned, 19 files written (8687388 bytes overall) [8009211 bytes received at 320368 bytes/sec], 988546 bytes transferred using HTTP compression in 11 files, ratio 30%, 6.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
